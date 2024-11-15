@@ -14,8 +14,8 @@ Key Highlights:
 
 ~Facilitated stakeholder collaboration to ensure solution alignment with business objectives.
 
-PBIX file: https://drive.google.com/file/d/1qb9EKa0vaWuNmmJfVwZEe-q4SDkzk0Rb/view?usp=drive_link
+PBIX file: https://drive.google.com/file/d/1qb9EKa0vaWuNmmJfVwZEe-q4SDkzk0Rb/view?usp=sharing
 
-PDF file link(ppt): https://drive.google.com/file/d/1fb-vs2qeXd5TjzxHUtWUsrJ0-uDnF9us/view?usp=drive_link
+PDF file link(ppt): https://drive.google.com/file/d/1fb-vs2qeXd5TjzxHUtWUsrJ0-uDnF9us/view?usp=sharing
 
-PowerBI PDF link: https://drive.google.com/file/d/1IS-IEuytbOdosm7X25kMNwrTy3e0IEtR/view?usp=drive_link
+PowerBI PDF link: https://drive.google.com/file/d/1IS-IEuytbOdosm7X25kMNwrTy3e0IEtR/view?usp=sharing
